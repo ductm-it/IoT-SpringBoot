@@ -1,0 +1,1 @@
+scp ./target/iot-platform-0.0.1-SNAPSHOT.war root@it4u.top:/opt/tomcat/latest/webapps/iot-platform.war
